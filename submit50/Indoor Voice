@@ -1,0 +1,2 @@
+input_value = input().lower()
+print(input_value)
